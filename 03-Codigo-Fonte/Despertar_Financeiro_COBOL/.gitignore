@@ -1,0 +1,10 @@
+build/
+dados/
+dados_demo/
+__pycache__/
+*.pyc
+*.dat
+*.csv
+*.exe
+.app.lock
+.DS_Store
