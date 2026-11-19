@@ -1,0 +1,15 @@
+# Executáveis e arquivos compilados
+*.exe
+*.o
+*.so
+*.dll
+*.c
+*.h
+
+# Dados gerados pelo sistema
+movimentos.dat
+*.csv
+
+# Arquivos temporários
+__pycache__/
+*.pyc
